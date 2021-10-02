@@ -1,5 +1,1 @@
-{
-  "452": { "id": 452, "content": "testing third messaage on the second day" },
-  "529": { "id": 529, "content": "second message" },
-  "973": { "id": 973, "content": "asdf" }
-}
+{"452":{"id":452,"content":"testing third messaage on the second day"},"499":{"id":499,"content":"message after adding dependency injection"},"529":{"id":529,"content":"second message"},"973":{"id":973,"content":"asdf"}}
